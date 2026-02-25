@@ -790,6 +790,7 @@ All the image tags, configurations, environment variables and application option
 
 #### Internal
 
+* ⬆ Bump peter-evans/dockerhub-description from 4 to 5. PR [#400](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker/pull/400) by [@dependabot[bot]](https://github.com/apps/dependabot).
 * 👷 Upgrade actions/checkout from v5 to v6. PR [#406](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker/pull/406) by [@tiangolo](https://github.com/tiangolo).
 * 👷 Upgrade `latest-changes` GitHub Action and pin `actions/checkout@v5`. PR [#404](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker/pull/404) by [@tiangolo](https://github.com/tiangolo).
 * 🔥 Drop support for Python 3.9. PR [#398](https://github.com/tiangolo/uvicorn-gunicorn-fastapi-docker/pull/398) by [@tiangolo](https://github.com/tiangolo).
